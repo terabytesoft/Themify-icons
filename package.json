@@ -1,0 +1,7 @@
+{
+    "name": "themify-icons",
+    "license": "BSD-3-Clause",
+    "dependencies": {
+        "ti-icons": "^0.1.2"
+    }
+}
